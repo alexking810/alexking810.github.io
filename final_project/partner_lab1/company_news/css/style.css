@@ -1,0 +1,47 @@
+body {
+    background-color: #f2f2f2;
+}
+
+p {
+    font-size: large;
+}
+
+h1 {
+    border-bottom: 1px solid lightsalmon;
+    border-width: 5px;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: xxx-large;
+}
+
+#paragraph1 {
+    color: blueviolet;
+}
+
+.special {
+    border-bottom: 5px;
+}
+
+a:hover {
+    background-color:deeppink;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+ol {
+    font-size: large;
+}
+
+#copyright {
+    background-color: #AED6F1;
+    color: #8E44AD;
+  }
+
+  * {
+    margin: 5px;
+	padding: 5px;
+  }
